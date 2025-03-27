@@ -8,7 +8,7 @@
 
 ## 🚀 Languages I have learned or am learning:
 - **Front-end:** HTML, CSS, JavaScript
-- **Back-end:** Python, C, C++, Java
+- **Back-end:** Python, C, C++, Java, C#
   
 
 <div style="display: flex; align-items: center;">
