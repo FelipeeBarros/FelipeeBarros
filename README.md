@@ -10,7 +10,6 @@
 - **Front-end:** HTML, CSS, JavaScript
 - **Back-end:** Python, C, C++, Java, C#
   
-
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=felipeebarros&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000" alt="Anurag's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeebarros&theme=chartreuse-dark&hide_border=true&bg_color=00000000" alt="Top Langs">
@@ -32,8 +31,6 @@
   </a>
 </div>
 
-
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00DA1E&height=120&section=footer"/>
+
+![Snake animation](https://github.com/FelipeeBarros/FelipeeBarros/blob/output/github-contribution-grid-snake.svg)
