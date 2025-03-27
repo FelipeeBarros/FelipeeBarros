@@ -17,7 +17,7 @@
 </div>
 
 <div align="center" style="margin-top: 50px; display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <a href="www.linkedin.com/in/felipeebarros">
+  <a href="https://www.linkedin.com/in/felipeebarros/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height: 50px;">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
