@@ -6,7 +6,7 @@
 💻 **Computer Science student, in the second semester**  
 🎓 **University**: Pontifical Catholic University of Minas Gerais
 
-## 🚀 Languages I have learned or am learning::
+## 🚀 Languages I have learned or am learning:
 - **Front-end:** HTML, CSS, JavaScript
 - **Back-end:** Python, C, C++, Java
   
