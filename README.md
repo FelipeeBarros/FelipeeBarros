@@ -13,10 +13,10 @@
 ## 🚀 Languages I have learned or am learning:
 - **Front-end:** HTML, CSS, JavaScript
 - **Back-end:** Python, C, C++, Java, C#
-  
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeeBarros&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000" alt="Anurag's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeeBarros&theme=chartreuse-dark&hide_border=true&bg_color=00000000" alt="Top Langs">
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FelipeeBarros&show_icons=true&count_private=true&hide_border=true&title_color=6cd804&icon_color=6cd804&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Barros Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeeBarros&layout=compact&hide_border=true&title_color=6cd804&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 <div align="center" style="margin-top: 50px; display: flex; justify-content: space-between; align-items: center; width: 100%;">
