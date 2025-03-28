@@ -6,6 +6,10 @@
 💻 **Computer Science student, in the second semester**  
 🎓 **University**: Pontifical Catholic University of Minas Gerais
 
+🏛️ **Education**:
+- Technical degree in Industrial Automation from IFMG  
+- Graduated in English, certified by Center of Anglo American Culture (CCAA) 
+
 ## 🚀 Languages I have learned or am learning:
 - **Front-end:** HTML, CSS, JavaScript
 - **Back-end:** Python, C, C++, Java, C#
