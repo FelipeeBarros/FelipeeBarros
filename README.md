@@ -11,8 +11,8 @@
 - **Back-end:** Python, C, C++, Java, C#
   
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipeebarros&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000" alt="Anurag's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeebarros&theme=chartreuse-dark&hide_border=true&bg_color=00000000" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeeBarros&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeeBarros&theme=chartreuse-dark&hide_border=true&bg_color=00000000" alt="Top Langs">
 </div>
 
 <div align="center" style="margin-top: 50px; display: flex; justify-content: space-between; align-items: center; width: 100%;">
