@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6cd804&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Felipe+Barros;)](https://git.io/typing-svg)
 ##
 
-💻 **Computer Science student, in the second semester**  
+💻 **Computer Science student, in the third semester**  
 🎓 **University**: Pontifical Catholic University of Minas Gerais
 
 🏛️ **Education**:
